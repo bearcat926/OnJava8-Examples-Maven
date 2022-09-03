@@ -18,6 +18,7 @@
         <module>compression</module>
         <module>concurrent</module>
         <module>control</module>
+        <module>enumerations</module>
         <module>enums</module>
         <module>equalshashcode</module>
         <module>exceptions</module>
@@ -37,13 +38,13 @@
         <module>patterns</module>
         <module>polymorphism</module>
         <module>references</module>
+        <module>reflection</module>
         <module>reuse</module>
         <module>serialization</module>
         <module>standardio</module>
         <module>staticchecking</module>
         <module>streams</module>
         <module>strings</module>
-        <module>typeinfo</module>
         <module>validating</module>
     </modules>
 

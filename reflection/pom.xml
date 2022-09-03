@@ -9,13 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>generics</artifactId>
+    <artifactId>reflection</artifactId>
 
-    <dependencies>
-        <dependency>
-            <groupId>onjava8</groupId>
-            <artifactId>reflection</artifactId>
-            <version>1.0-SNAPSHOT</version>
-        </dependency>
-    </dependencies>
+
 </project>
